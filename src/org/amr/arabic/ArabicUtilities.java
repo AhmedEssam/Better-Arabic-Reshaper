@@ -1,4 +1,4 @@
-package org.amr.arabic;
+package org.arabic;
 
 /*
  *	Date : 8th of June 2009
